@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Fri May  6 15:05:12 2022
 
-@author: 19pt25
-"""
 import numpy as np
 import cv2
 from skimage.util import random_noise
