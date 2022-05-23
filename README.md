@@ -1,3 +1,3 @@
 # sem
-bezire.cpp
+bezire.cpp<br>
 c-curve.py
