@@ -1,6 +1,7 @@
 # sem
 bezire.cpp<br>
 c-curve.py<br>
+cantor.py<br>
 circle.cpp<br>
 dragoncurve.py<br>
 julia.py<br>
